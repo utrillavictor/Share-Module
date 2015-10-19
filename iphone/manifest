@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+architectures: armv7 arm64 i386 x86_64
+description: An Appcelerator Titanium module that creates an UIActivityViewController to choose which application will send an email with an attachment
+author: Victor Cordero Utrilla
+license: Apache License, Version 2.0
+copyright: Copyright 2015 by Victor Cordero Utrilla
+
+# these should not be edited
+name: sharemail
+moduleid: com.vcord.sharemail
+guid: 3dba0af9-3f0b-41eb-828d-e07790e841a7
+platform: iphone
+minsdk: 4.0.0.GA
