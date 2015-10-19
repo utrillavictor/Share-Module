@@ -4,7 +4,7 @@ Appcelerator Titanium :: Share
 An Appcelerator Titanium module that creates an UIActivityViewController to choose which
 application will send an email with an attachment.
 
-[link](https://www.dropbox.com/s/4ve5fzebhmuzjjq/image.png?dl=0)
+![](https://www.dropbox.com/s/4ve5fzebhmuzjjq/image.png?dl=0)
 
 <h2>Setup</h2>
 
